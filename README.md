@@ -1,7 +1,5 @@
-# BudgetLogTemplate
+## BudgetLogTemplate
 A customizeable spreadsheet for your financing - made with Google Sheets.
-
-## How to actually use this thing.
 
 ### Adding Stuff
 You can add more than what is shown on here. To add a category, go over to the right, where all the other ones are. Then, you add a collum to the left or right, and putting in information. Afterwards don't forget to update the info on the income and spending graphs! You do this by changing the letters in its range. Last, you go to the data validation (which is in the data section) and add your category - as well as adding the ":(Letter)" to make it continually going down. In addition, you can also make an average of your finances (if you decide to make sheets for each year) by making a new sheet and creating an "array" of all the sheets with graphs to show you the total. You can find out how to do that by looking at Google's tutorials.
