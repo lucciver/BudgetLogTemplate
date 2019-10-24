@@ -14,3 +14,6 @@ Before anything is said, count the amount of money you have, putting it in the f
 
 ### Investment(s)
 The investment feature is completely optional, but it can help you make sure you are not using any of the money you set aside. It is similar to plugging info in for spending or recieving money. Here's the categories that are identified as an investment on this template: "College","Emergency Fund", and "Savings". Whenever you add your first investment, it will show up as a dot on the graph. This is a marker to show you the distance from your *overall* total. At the top left corner of the spreadsheet you can find the total you have without your investment(s). If you want to lower the amount, select the reason as a recount and put in a negative number. If you want to take money out of your investment, do the same as before and also enter in a new row for "Spent."
+
+## budgetFilingAssistant.sh
+This shell script is an asset to the template, as it has the ability to manage your financial documents automatically based on the deadline you set for your files. Now you can keep up with your receipts and such without having to feel cluttered!
