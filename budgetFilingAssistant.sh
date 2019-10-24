@@ -15,7 +15,7 @@ read DEADLINE
 datediff() {
     d1=$(date -d "$1" +%s)
     d2=$(date -d +%s)
-    t=$(( (d1 - d2) / 86400 ))
+    t=$(( ($d1 - $d2) / 86400 ))
 }
 
 bkr() {
